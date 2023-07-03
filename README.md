@@ -1,6 +1,10 @@
 # JNMAP
 A simple script for common nmap scanning
 =============
+![jnmap](https://github.com/J-Agostino/JNMAP/assets/107634968/9a45c669-bb5c-474b-bdb6-a5f5eeda6185)
+
+
+=============
 
 Be aware to have installed nmap library for python. The program uses the most basic flags for nmap
 #-PR for host discovery
